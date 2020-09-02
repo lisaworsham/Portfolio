@@ -2,6 +2,8 @@
 
 The goal was to make a website for my web development portfolio using Bootstrap and to have it on a repository so it can be updated and pushed to the respository throughout the bootcamp. There are 3 pages: Home/About to provide information about me, Portfolio with links to all work, and Contact which is a form to allow people who want to contact me may do so there.
 
+[Link to Portfolio](https://lisaworsham.github.io/Portfolio/)
+
 ## Prerequisites
 
 ```
@@ -28,6 +30,8 @@ Taking the first step for this was the hardest for me. There was alot to do and 
 Websites take time. Even simple ones like this. You have to set a timeline and keep to a schedule. When I got frustrated with code that wasn't working, I took a break and stepped  away. I would still think about it in my head and try to work it out. When I would get an epiphiney, I'd come back and fix my problem. 
 
 It's not exactly the way I want it but that's because I haven't quite learned everything yet. But I reminded myself that I'll be updating this as I go along over the next few months. As with all websites. 
+
+<img src="assets/images/Capture.PNG">
 
 - - -
 © 2020 Lisa Worsham Services, Inc. All Rights Reserved.
